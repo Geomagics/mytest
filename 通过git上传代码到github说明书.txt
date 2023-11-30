@@ -1,0 +1,13 @@
+添加程序说明及备注到本地git
+git add file
+git add .
+git commit -m "备注"
+
+连接github仓库
+git remote add origin git@github.com:Geomagics/mytest.git
+
+新建分支
+git branch -M main
+
+通过分支上传代码等
+git branch -M main
